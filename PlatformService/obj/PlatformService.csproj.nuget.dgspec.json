@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "D:\\Services\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "D:\\Services\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\Services\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\PlatformService\\PlatformService\\PlatformService.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PlatformService\\PlatformService\\obj\\",
+        "projectPath": "D:\\Services\\PlatformService\\PlatformService.csproj",
+        "packagesPath": "C:\\Users\\maitr\\.nuget\\packages\\",
+        "outputPath": "D:\\Services\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
